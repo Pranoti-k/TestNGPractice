@@ -3,6 +3,17 @@
   <groupId>demo1</groupId>
   <artifactId>practicesession</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+  
+  <groupId>org.testng</groupId>
+  <artifactId>testng</artifactId>
+  <version>6.8</version>
+  <scope>test</scope>
+
+  
+  </dependency>
+  </dependencies>
   <properties>
   <maven.compiler.source>1.8</maven.compiler.source>
 <maven.compiler.target>1.8</maven.compiler.target>
